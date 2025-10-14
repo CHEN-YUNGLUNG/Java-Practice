@@ -9,7 +9,7 @@ public class Java11 {
             System.out.printf("請輸入數字1~9%n>");
             int num=s.nextInt();
             if(num==ans){
-                System.out.println("恭喜中獎!!");
+                System.out.println("恭喜中獎!");
                 break;
             }else{
                 System.out.println("很可惜,沒猜中...");
