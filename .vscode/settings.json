@@ -1,0 +1,22 @@
+{
+  "terminal.integrated.rendererType": "dom",
+
+  "terminal.integrated.fontFamily": "Cascadia Mono, 'Microsoft JhengHei UI', 'Yu Gothic UI', Meiryo, 'Noto Sans Mono CJK TC', monospace",
+  "terminal.integrated.fontSize": 18,
+
+  "terminal.integrated.profiles.windows": {
+    "PowerShell UTF-8": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": [
+        "-NoLogo",
+        "-NoExit",
+        "-Command",
+        "$OutputEncoding=[Text.Encoding]::UTF8; [Console]::InputEncoding=[Text.Encoding]::UTF8; [Console]::OutputEncoding=[Text.Encoding]::UTF8"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell UTF-8",
+
+  "editor.fontFamily": "Cascadia Code, 'Microsoft JhengHei UI', 'Yu Gothic UI', Meiryo, 'Noto Sans CJK SC', 'Noto Sans CJK TC', monospace",
+  "editor.fontSize": 18
+}

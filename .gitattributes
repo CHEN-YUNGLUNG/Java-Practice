@@ -1,0 +1,27 @@
+# === 統一換行設定 ===
+# 所有文字檔在儲存庫中使用 LF，Windows 讀取時會自動轉為 CRLF
+* text=auto eol=lf
+
+# Java 程式碼
+*.java text eol=lf
+
+# JSON / Markdown / HTML / CSS / JS / XML
+*.json text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.xml text eol=lf
+
+# Windows 專用批次檔保留 CRLF（不轉換）
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二進位檔（不轉換）
+*.png binary
+*.jpg binary
+*.gif binary
+*.exe binary
+*.dll binary
+*.zip binary
+*.jar binary
