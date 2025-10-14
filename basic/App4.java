@@ -1,4 +1,5 @@
-import math1.geometry.*;
+package basic;
+import basic.math1.geometry.*;
 class App4{
     public static void main(String[] args){
         // 程式進入點

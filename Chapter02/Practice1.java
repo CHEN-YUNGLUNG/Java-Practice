@@ -1,5 +1,6 @@
+package Chapter02;
 import java.util.Scanner;
-public class Java5 {
+public class Practice1 {
     public static void main(String[] args){
        System.out.println("ようこそ占い館へ");
        Scanner s=new Scanner(System.in);

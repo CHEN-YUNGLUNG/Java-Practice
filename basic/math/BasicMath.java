@@ -1,4 +1,4 @@
-package math; // 宣告封包名稱
+package basic.math; // 宣告封包名稱
 public class BasicMath{
     public static double PI=3.1415926;
     public static int add(int n1,int n2){

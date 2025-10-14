@@ -1,3 +1,4 @@
+package Chapter03;
 import java.util.Scanner;
 public class Java10 {
     public static void main(String[] args){

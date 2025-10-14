@@ -1,5 +1,6 @@
-import math.BasicMath;
-import math.geometry.*; // 載入封包裝的所有類別 
+package basic;
+import basic.math.BasicMath;
+import basic.math.geometry.*;
 public class App3 {
     public static void main(String[] args){
         // 程式進入點

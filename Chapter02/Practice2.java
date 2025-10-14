@@ -1,5 +1,6 @@
+package Chapter02;
 import java.util.Scanner;
-public class Java4 {
+public class Practice2 {
     public static void main(String[] args){
         /*String prof1="名前:朝香あゆみ\n       (朝香あゆみ)";
         String prof2="""

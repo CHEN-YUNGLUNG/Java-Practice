@@ -1,4 +1,4 @@
-package math1.geometry;
+package basic.math1.geometry;
 
 public class Point {
     // 類別的屬性和方法 (static)

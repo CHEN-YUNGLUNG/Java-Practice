@@ -1,4 +1,4 @@
-package math1.geometry;
+package basic.math1.geometry;
 
 public class Person {
     public String S1;
