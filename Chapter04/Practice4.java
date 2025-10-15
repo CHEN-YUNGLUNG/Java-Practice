@@ -26,7 +26,7 @@ public class Practice4 {
             
         }
       } 
-      s.close(); 
+      s.close();
     }
     
 }
