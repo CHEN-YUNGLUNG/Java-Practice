@@ -10,6 +10,6 @@ class Test2{
         System.out.println(Test2.a); // 印出 3.14
         System.out.println(Test1.s); // 印出 Hello Class
         Test1.a++;
-        System.out.println(Test1.a);
+        System.out.println(Test1.a); 
     }
 }
