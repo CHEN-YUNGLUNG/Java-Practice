@@ -16,7 +16,7 @@ public class Practice4 {
             if(n==input){
                 System.out.println("アタリ！");
                 h=true;
-                break;
+                break; 
             }
         }
         if(h){
