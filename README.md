@@ -183,6 +183,56 @@ Java-Practice/
 └─ Chapter05/
 ```
 
+🪄 小技巧：更新專案結構（structure.txt） / プロジェクト構成の再生成
+```bash
+當專案新增或刪除檔案、資料夾時，可以用以下指令快速重新產生最新的結構表。
+```
+🧱 生成指令（Windows 專用）
+```bash
+C:\Windows\System32\tree.com /f > structure.txt
+```
+📘 說明：
+```bash
+tree.com：Windows 內建的目錄結構顯示工具
+
+/f：顯示檔案名稱（非僅資料夾）
+
+> structure.txt：將結果輸出到檔案 structure.txt
+
+若你在 VS Code 或 PowerShell 執行，請確保當前目錄為專案根目錄（例如 Java-Practice/）。
+```
+✅ 執行後，會在專案根目錄生成或覆蓋：
+```bash
+Java-Practice/
+├─ README.md
+├─ structure.txt  ← ✅ 已更新
+├─ Chapter01/
+├─ Chapter02/
+└─ ...
+```
+🚀 將更新後的 structure.txt 上傳到 GitHub
+```bash
+git add structure.txt
+git commit -m "更新專案結構：structure.txt"
+git push
+```
+💡 提示：
+```bash
+若同時修改 README.md ，也可一次上傳：
+git add README.md structure.txt
+git commit -m "更新 README 與專案結構"
+git push
+
+若顯示「Everything up-to-date」卻沒更新，記得確認是否執行了 git commit。
+```
+⚠️ 常見錯誤與解法
+| 問題                                                            | 原因                        | 解法                                                       |
+| ------------------------------------------------------------- | ------------------------- | -------------------------------------------------------- |
+| `'tree' is not recognized as an internal or external command` | PowerShell 無法直接使用 tree 指令 | 改用完整路徑：`C:\Windows\System32\tree.com /f > structure.txt` |
+| `cmd : The term 'cmd' is not recognized`                      | 目前 Shell 不支援 cmd 呼叫       | 同上，直接指定完整路徑即可                                            |
+| 結果顯示亂碼                                                        | 終端機編碼非 UTF-8              | 在 VS Code 中執行前輸入：`chcp 65001` 以切換至 UTF-8                 |
+
+
 💻 開發環境 / 開発環境
 
 | 項目                  | 說明 / 説明                                  |
