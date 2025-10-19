@@ -1,9 +1,8 @@
 {
+  // ==== 你的終端機 / 字型 ====
   "terminal.integrated.rendererType": "dom",
-
   "terminal.integrated.fontFamily": "Cascadia Mono, 'Microsoft JhengHei UI', 'Yu Gothic UI', Meiryo, 'Noto Sans Mono CJK TC', monospace",
   "terminal.integrated.fontSize": 18,
-
   "terminal.integrated.profiles.windows": {
     "PowerShell UTF-8": {
       "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
@@ -16,7 +15,21 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "PowerShell UTF-8",
-
   "editor.fontFamily": "Cascadia Code, 'Microsoft JhengHei UI', 'Yu Gothic UI', Meiryo, 'Noto Sans CJK SC', 'Noto Sans CJK TC', monospace",
-  "editor.fontSize": 18
+  "editor.fontSize": 18,
+
+  // ==== Java / 儲存動作（新推薦）====
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.saveActions.organizeImports": true,
+  "java.completion.guessMethodArguments": true,
+  "java.referencesCodeLens.enabled": true,
+  "java.inlayHints.parameterNames.enabled": "all",
+
+  // ==== 檔案行尾與最後換行（建議配合 Git LF）====
+  "files.eol": "\n",
+  "files.insertFinalNewline": true
 }
