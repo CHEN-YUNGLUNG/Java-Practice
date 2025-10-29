@@ -1,129 +1,375 @@
-﻿Folder PATH listing
-Volume serial number is E422-F4FB
-C:.
-��   .gitattributes
-��   .gitignore
-��   README.md
-��   structure.txt
-��   
-��������.vscode
-��       settings.json
-��       
-��������basic
-��   ��   App.java
-��   ��   App2.java
-��   ��   App3.class
-��   ��   App3.java
-��   ��   App4.class
-��   ��   App4.java
-��   ��   Array.class
-��   ��   Array.java
-��   ��   BasicMath.class
-��   ��   compile_log.txt
-��   ��   ConditionalStatement.class
-��   ��   ConditionalStatement.java
-��   ��   DataTypeConversion.class
-��   ��   DataTypeConversion.java
-��   ��   DataTypeVariable.class
-��   ��   DataTypeVariable.java
-��   ��   Hello.class
-��   ��   Hello.java
-��   ��   JavaPractise.class
-��   ��   JavaPractise.java
-��   ��   Loop.class
-��   ��   Loop.java
-��   ��   LoopStatement.class
-��   ��   LoopStatement.java
-��   ��   Operator.class
-��   ��   Operator.java
-��   ��   Test.class
-��   ��   Test1.class
-��   ��   Test2.class
-��   ��   
-��   ��������math
-��   ��   ��   BasicMath.class
-��   ��   ��   BasicMath.java
-��   ��   ��   
-��   ��   ��������geometry
-��   ��           Rectangle.class
-��   ��           Rectangle.java
-��   ��           
-��   ��������math1
-��       ��������geometry
-��               Person.class
-��               Person.java
-��               Point.class
-��               Point.java
-��               
-��������Chapter01
-��       Practice.class
-��       Practice.java
-��       
-��������Chapter02
-��       Practice1.class
-��       Practice1.java
-��       Practice2.class
-��       Practice2.java
-��       
-��������Chapter03
-��       Java10.class
-��       Java10.java
-��       Java11.class
-��       Java11.java
-��       Java6.class
-��       Java6.java
-��       Java7.class
-��       Java7.java
-��       Java8.class
-��       Java8.java
-��       Java9.class
-��       Java9.java
-��       Javap.class
-��       Javap.java
-��       
-��������Chapter04
-��       DNASign.class
-��       DNASign.java
-��       Practice1.class
-��       Practice1.java
-��       Practice2.class
-��       Practice2.java
-��       Practice3.class
-��       Practice3.java
-��       Practice4.class
-��       Practice4.java
-��       PracticeN.class
-��       PracticeN.java
-��       
-��������Chapter05
-��       Practice1.class
-��       Practice1.java
-��       Practice2.class
-��       Practice2.java
-��       Practice3.class
-��       Practice3.java
-��       Practice4.class
-��       Practice4.java
-��       Practice5.class
-��       Practice5.java
-��       PracticeF.class
-��       PracticeF.java
-��       
-��������Chapter06
-��   ��   Main.class
-��   ��   Main.java
-��   ��   
-��   ��������comment
-��           Kouhan.class
-��           Kouhan.java
-��           Zenhan.class
-��           Zenhan.java
-��           
-��������Chapter08
-    ��   Main.class
-    ��   Main.java
-    ��   
-    ��������Character
-            Cleric.class
-            Cleric.java
-            
+﻿
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/14  下午 04:43                .vscode                                                                                                              
+d-----        2025/10/14  下午 05:12                basic                                                                                                                
+d-----        2025/10/14  下午 05:57                Chapter01                                                                                                            
+d-----        2025/10/14  下午 05:41                Chapter02                                                                                                            
+d-----        2025/10/14  下午 05:47                Chapter03                                                                                                            
+d-----        2025/10/15  下午 12:40                Chapter04                                                                                                            
+d-----        2025/10/16  下午 12:52                Chapter05                                                                                                            
+d-----        2025/10/18  上午 11:51                Chapter06                                                                                                            
+d-----        2025/10/20  下午 06:07                Chapter08                                                                                                            
+d-----        2025/10/21  上午 11:36                Chapter09                                                                                                            
+d-----        2025/10/22  下午 01:57                Chapter10                                                                                                            
+d-----        2025/10/23  下午 05:58                Chapter11                                                                                                            
+d-----        2025/10/24  下午 08:00                Chapter12                                                                                                            
+d-----        2025/10/25  下午 09:59                Chapter13                                                                                                            
+d-----        2025/10/27  上午 12:20                Chapter14                                                                                                            
+d-----        2025/10/27  下午 08:44                Chapter15                                                                                                            
+d-----        2025/10/28  下午 02:43                Chapter16                                                                                                            
+d-----        2025/10/29  下午 01:48                Chapter17                                                                                                            
+-a----        2025/10/14  下午 04:48            560 .gitattributes                                                                                                       
+-a----        2025/10/14  下午 04:39            314 .gitignore                                                                                                           
+-a----        2025/10/20  下午 09:18           8173 README.md                                                                                                            
+-a----        2025/10/29  下午 03:12              0 structure.txt                                                                                                        
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\.vscode
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/20  下午 12:00           1419 settings.json                                                                                                        
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\basic
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/14  下午 04:43                math                                                                                                                 
+d-----        2025/10/14  下午 04:43                math1                                                                                                                
+-a----        2025/10/15  下午 05:26            408 App.java                                                                                                             
+-a----         2025/10/5  下午 03:56            928 App2.java                                                                                                            
+-a----         2025/10/8  下午 05:19            548 App3.class                                                                                                           
+-a----        2025/10/14  下午 05:12            362 App3.java                                                                                                            
+-a----        2025/10/11  下午 10:56            880 App4.class                                                                                                           
+-a----        2025/10/14  下午 05:12            911 App4.java                                                                                                            
+-a----         2025/10/3  下午 03:41           1296 Array.class                                                                                                          
+-a----         2025/10/3  下午 04:36           1390 Array.java                                                                                                           
+-a----         2025/10/5  下午 03:22            296 BasicMath.class                                                                                                      
+-a----         2025/9/23  上午 08:35           8970 compile_log.txt                                                                                                      
+-a----         2025/10/1  下午 09:46            801 ConditionalStatement.class                                                                                           
+-a----         2025/10/3  下午 04:36           2147 ConditionalStatement.java                                                                                            
+-a----         2025/9/28  下午 08:15            638 DataTypeConversion.class                                                                                             
+-a----         2025/10/3  下午 04:36           1469 DataTypeConversion.java                                                                                              
+-a----         2025/9/24  下午 09:46            816 DataTypeVariable.class                                                                                               
+-a----         2025/10/3  下午 04:36           1146 DataTypeVariable.java                                                                                                
+-a----         2025/9/28  下午 08:17            529 Hello.class                                                                                                          
+-a----         2025/10/3  下午 04:36            327 Hello.java                                                                                                           
+-a----         2025/9/23  上午 09:41            590 JavaPractise.class                                                                                                   
+-a----         2025/10/3  下午 04:36            348 JavaPractise.java                                                                                                    
+-a----         2025/10/1  下午 05:44            446 Loop.class                                                                                                           
+-a----         2025/10/3  下午 04:36           1125 Loop.java                                                                                                            
+-a----         2025/10/1  下午 10:37           1149 LoopStatement.class                                                                                                  
+-a----         2025/10/3  下午 04:36           1352 LoopStatement.java                                                                                                   
+-a----         2025/9/30  下午 04:26            409 Operator.class                                                                                                       
+-a----         2025/10/3  下午 04:36           1094 Operator.java                                                                                                        
+-a----         2025/10/5  下午 03:22            611 Test.class                                                                                                           
+-a----        2025/10/15  下午 05:26            338 Test1.class                                                                                                          
+-a----        2025/10/15  下午 05:26            645 Test2.class                                                                                                          
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\basic\math
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/14  下午 04:43                geometry                                                                                                             
+-a----         2025/10/5  下午 05:34            398 BasicMath.class                                                                                                      
+-a----        2025/10/14  下午 05:10            260 BasicMath.java                                                                                                       
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\basic\math\geometry
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----         2025/10/5  下午 05:42            308 Rectangle.class                                                                                                      
+-a----        2025/10/14  下午 05:10            132 Rectangle.java                                                                                                       
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\basic\math1
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/14  下午 04:43                geometry                                                                                                             
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\basic\math1\geometry
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/11  下午 10:56           1660 Person.class                                                                                                         
+-a----        2025/10/14  下午 05:10            919 Person.java                                                                                                          
+-a----         2025/10/8  下午 02:14           1107 Point.class                                                                                                          
+-a----        2025/10/14  下午 05:10            608 Point.java                                                                                                           
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter01
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/15  上午 12:01            637 Practice.class                                                                                                       
+-a----        2025/10/15  上午 12:00            433 Practice.java                                                                                                        
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter02
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/15  上午 12:02           1532 Practice1.class                                                                                                      
+-a----        2025/10/15  上午 12:02            787 Practice1.java                                                                                                       
+-a----        2025/10/14  下午 05:41           1154 Practice2.class                                                                                                      
+-a----        2025/10/14  下午 05:40           1099 Practice2.java                                                                                                       
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter03
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/13  下午 03:58            876 Java10.class                                                                                                         
+-a----        2025/10/14  下午 05:46            676 Java10.java                                                                                                          
+-a----        2025/10/15  上午 12:03            949 Java11.class                                                                                                         
+-a----        2025/10/15  上午 12:03            660 Java11.java                                                                                                          
+-a----        2025/10/13  下午 02:05           1177 Java6.class                                                                                                          
+-a----        2025/10/14  下午 05:44            470 Java6.java                                                                                                           
+-a----        2025/10/13  下午 02:42            672 Java7.class                                                                                                          
+-a----        2025/10/14  下午 05:45            326 Java7.java                                                                                                           
+-a----        2025/10/13  下午 03:22           1438 Java8.class                                                                                                          
+-a----        2025/10/14  下午 05:45            694 Java8.java                                                                                                           
+-a----        2025/10/13  下午 03:49            541 Java9.class                                                                                                          
+-a----        2025/10/14  下午 05:46            360 Java9.java                                                                                                           
+-a----        2025/10/13  下午 02:58            590 Javap.class                                                                                                          
+-a----        2025/10/14  下午 05:48            221 Javap.java                                                                                                           
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter04
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/14  下午 10:28           1051 DNASign.class                                                                                                        
+-a----        2025/10/14  下午 10:28            817 DNASign.java                                                                                                         
+-a----        2025/10/14  下午 11:00            544 Practice1.class                                                                                                      
+-a----        2025/10/14  下午 11:00            336 Practice1.java                                                                                                       
+-a----        2025/10/15  上午 10:55            772 Practice2.class                                                                                                      
+-a----        2025/10/15  上午 10:55            460 Practice2.java                                                                                                       
+-a----        2025/10/15  下午 12:22           1000 Practice3.class                                                                                                      
+-a----        2025/10/15  下午 12:26           1287 Practice3.java                                                                                                       
+-a----        2025/10/15  下午 05:25            956 Practice4.class                                                                                                      
+-a----        2025/10/15  下午 05:25            776 Practice4.java                                                                                                       
+-a----        2025/10/15  下午 05:19            464 PracticeN.class                                                                                                      
+-a----        2025/10/15  上午 11:00            260 PracticeN.java                                                                                                       
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter05
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/16  上午 09:50            571 Practice1.class                                                                                                      
+-a----        2025/10/16  上午 09:50            311 Practice1.java                                                                                                       
+-a----        2025/10/16  上午 11:41            646 Practice2.class                                                                                                      
+-a----        2025/10/16  上午 11:41            422 Practice2.java                                                                                                       
+-a----        2025/10/16  下午 12:04           1115 Practice3.class                                                                                                      
+-a----        2025/10/16  下午 12:04            453 Practice3.java                                                                                                       
+-a----        2025/10/16  下午 12:20           1218 Practice4.class                                                                                                      
+-a----        2025/10/16  下午 12:20            469 Practice4.java                                                                                                       
+-a----        2025/10/16  下午 12:30           1244 Practice5.class                                                                                                      
+-a----        2025/10/16  下午 12:30            543 Practice5.java                                                                                                       
+-a----        2025/10/16  下午 12:52           1314 PracticeF.class                                                                                                      
+-a----        2025/10/16  下午 12:52            835 PracticeF.java                                                                                                       
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter06
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/18  上午 11:49                comment                                                                                                              
+-a----        2025/10/18  下午 12:40            488 Main.class                                                                                                           
+-a----        2025/10/18  上午 11:51            304 Main.java                                                                                                            
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter06\comment
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/18  下午 12:40            966 Kouhan.class                                                                                                         
+-a----        2025/10/18  下午 12:40            672 Kouhan.java                                                                                                          
+-a----        2025/10/18  下午 12:37            791 Zenhan.class                                                                                                         
+-a----        2025/10/18  下午 12:37            472 Zenhan.java                                                                                                          
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter08
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/20  下午 04:29                Character                                                                                                            
+-a----        2025/10/22  下午 01:03           1172 Main.class                                                                                                           
+-a----        2025/10/20  下午 06:17            514 Main.java                                                                                                            
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter08\Character
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/22  下午 01:02           2235 Cleric.class                                                                                                         
+-a----        2025/10/20  下午 06:00           1533 Cleric.java                                                                                                          
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter09
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/21  上午 11:30                Character                                                                                                            
+-a----        2025/10/21  上午 11:48           1172 Main.class                                                                                                           
+-a----        2025/10/21  上午 11:48            479 Main.java                                                                                                            
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter09\Character
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/21  上午 11:42            627 Thief.class                                                                                                          
+-a----        2025/10/21  上午 11:42            516 Thief.java                                                                                                           
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter10
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+d-----        2025/10/22  下午 01:05                Character                                                                                                            
+-a----        2025/10/22  下午 06:22           3148 Main.class                                                                                                           
+-a----        2025/10/22  下午 06:24           2808 Main.java                                                                                                            
+-a----        2025/10/22  下午 05:37           1106 Matango.class                                                                                                        
+-a----        2025/10/22  下午 05:30            431 Matango.java                                                                                                         
+-a----        2025/10/22  下午 05:37           1350 PoisonMatango.class                                                                                                  
+-a----        2025/10/22  下午 04:59            886 PoisonMatango.java                                                                                                   
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter10\Character
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/22  下午 06:11           3220 Cleric.class                                                                                                         
+-a----        2025/10/22  下午 06:11           2804 Cleric.java                                                                                                          
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter11
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/23  下午 06:20            453 Asset.class                                                                                                          
+-a----        2025/10/23  下午 06:16            584 Asset.java                                                                                                           
+-a----        2025/10/23  下午 06:24            603 TangibleAsset.class                                                                                                  
+-a----        2025/10/23  下午 06:24           1195 TangibleAsset.java                                                                                                   
+-a----        2025/10/23  下午 06:25            154 Thing.class                                                                                                          
+-a----        2025/10/23  下午 06:25            565 Thing.java                                                                                                           
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter12
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/24  下午 08:03            499 A.class                                                                                                              
+-a----        2025/10/24  下午 08:03            237 A.java                                                                                                               
+-a----        2025/10/24  下午 08:03            499 B.class                                                                                                              
+-a----        2025/10/24  下午 08:13            232 B.java                                                                                                               
+-a----        2025/10/24  下午 08:03            508 Main.class                                                                                                           
+-a----        2025/10/24  下午 08:00            306 Main.java                                                                                                            
+-a----        2025/10/24  下午 07:42            111 X.class                                                                                                              
+-a----        2025/10/24  下午 07:42             57 X.java                                                                                                               
+-a----        2025/10/24  下午 07:46            229 Y.class                                                                                                              
+-a----        2025/10/24  下午 07:46            123 Y.java                                                                                                               
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter13
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/25  下午 10:40           1272 Hero.class                                                                                                           
+-a----        2025/10/25  下午 10:32           1296 Hero.java                                                                                                            
+-a----        2025/10/26  下午 02:04           1938 Main.class                                                                                                           
+-a----        2025/10/26  下午 02:03           1351 Main.java                                                                                                            
+-a----        2025/10/25  下午 10:39            988 Sword.class                                                                                                          
+-a----        2025/10/25  下午 10:39            813 Sword.java                                                                                                           
+-a----        2025/10/25  下午 10:39            986 Wand.class                                                                                                           
+-a----        2025/10/25  下午 10:39            810 Wand.java                                                                                                            
+-a----        2025/10/26  下午 02:04           1891 Wizard.class                                                                                                         
+-a----        2025/10/25  下午 11:35           1266 Wizard.java                                                                                                          
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter14
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/27  上午 01:11           1589 Account.class                                                                                                        
+-a----        2025/10/27  上午 01:12           1529 Account.java                                                                                                         
+-a----        2025/10/27  上午 01:05            769 Main.class                                                                                                           
+-a----        2025/10/27  上午 12:46            476 Main.java                                                                                                            
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter15
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/27  下午 04:26            893 Practice1.class                                                                                                      
+-a----        2025/10/27  下午 04:27            740 Practice1.java                                                                                                       
+-a----        2025/10/27  下午 05:39           1363 Practice2.class                                                                                                      
+-a----        2025/10/27  下午 05:39           1077 Practice2.java                                                                                                       
+-a----        2025/10/27  下午 08:31            859 Practice4.class                                                                                                      
+-a----        2025/10/27  下午 08:31            545 Practice4.java                                                                                                       
+-a----        2025/10/27  下午 09:07           1108 Practice5.class                                                                                                      
+-a----        2025/10/27  下午 09:13            624 Practice5.java                                                                                                       
+-a----        2025/10/27  下午 12:06           1096 Split.class                                                                                                          
+-a----        2025/10/27  下午 12:05            254 Split.java                                                                                                           
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter16
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/28  下午 02:30           1038 Hero.class                                                                                                           
+-a----        2025/10/28  下午 02:30            903 Hero.java                                                                                                            
+-a----        2025/10/28  下午 09:55           2177 Hero2.class                                                                                                          
+-a----        2025/10/28  下午 03:07           1282 Hero2.java                                                                                                           
+
+
+    Directory: C:\Users\TAKASHI\JavaProjects\Java-Practice\Chapter17
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                 
+----                 -------------         ------ ----                                                                                                                 
+-a----        2025/10/29  下午 01:27            809 Practice1.class                                                                                                      
+-a----        2025/10/29  下午 01:27            527 Practice1.java                                                                                                       
+-a----        2025/10/29  下午 01:34            812 Practice2.class                                                                                                      
+-a----        2025/10/29  下午 01:34            399 Practice2.java                                                                                                       
+-a----        2025/10/29  下午 01:48            494 Practice3.class                                                                                                      
+-a----        2025/10/29  下午 01:48            224 Practice3.java                                                                                                       
+
+
