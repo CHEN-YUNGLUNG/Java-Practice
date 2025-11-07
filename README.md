@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-25-blue)
+![Editor](https://img.shields.io/badge/Editor-VSCode-lightblue)
+![OS](https://img.shields.io/badge/Windows-11-informational)
+![Progress](https://img.shields.io/badge/Ch.1--18-Completed-brightgreen)
+
 ☕ Java Practice Log / Java 練習記錄
 
 📘 Java学習者 / ITエンジニア転職準備中  
@@ -5,7 +10,19 @@
 
 🕒 更新日：2025/10/29 — 第18章完成（第7〜18章重點總整理）
 
-📖 專案介紹 / プロジェクト紹介
+## 目次 / Table of Contents
+
+- [專案介紹 / プロジェクト紹介](#專案介紹--プロジェクト紹介)
+- [學習進度 / 学習進捗](#學習進度--学習進捗)
+- [編譯與執行 / コンパイルと実行](#編譯與執行--コンパイルと実行)
+- [常用指令速查 / 基本コマンド](#常用指令速查--基本コマンド)
+- [學習要點總整理 / 要点まとめ](#學習要點總整理--要点まとめ)
+- [參考筆記 / Reference](#參考筆記--reference)
+- [開發環境 / 環境](#開發環境--開発環境)
+- [未來規劃 / 今後の計画](#未來規劃--今後の計画)
+- [作者 / Author](#作者--author)
+
+## 📖 專案介紹 / プロジェクト紹介
 
 ```bash
 這個專案是我在學習《スッキリわかるJava入門 第4版》的過程中建立的練習紀錄。
@@ -19,7 +36,8 @@
 目標は 2026年初頭までにJavaエンジニアとしてIT業界へ転職すること です。
 ```
 
-🧩 學習進度 / 学習進捗
+## 🧩 學習進度 / 学習進捗
+
 🩵 第 I 部：基礎を身につけよう / 打好基礎篇
 
 | 章節        | 主題                 | 狀態   | 備註                     |
@@ -53,7 +71,7 @@
 | Chapter 17 | 例外             | ✅ 完成 | try-catch、throw vs throws、TWR |
 | Chapter 18 | まだまだ広がるJavaの世界 | ✅ 完成 | IO/網路/URL/openStream          |
 
-📂 專案結構 / プロジェクト構成（2025/10/29）
+## 📂 專案結構 / プロジェクト構成（2025/10/29）
 
 ```bash
 Java-Practice/
@@ -78,7 +96,10 @@ Java-Practice/
 └─ README.md / structure.txt
 ```
 
-▶ 編譯與執行 / コンパイルと実行
+## ▶ 編譯與執行 / コンパイルと実行
+
+<details>
+<summary>（點我展開 / クリックで展開）</summary>
 
 ```bash
 # 有封包（例：Chapter13）
@@ -94,7 +115,9 @@ java Java10
 javac -d . .\Chapter16\*.java
 ```
 
-⚙️ 常用指令速查表 / よく使う基本コマンド一覧
+</details>
+
+## ⚙️ 常用指令速查表 / よく使う基本コマンド一覧
 
 | 指令               | 中文說明              | 日本語説明              |
 | ---------------- | ----------------- | ------------------ |
@@ -103,8 +126,10 @@ javac -d . .\Chapter16\*.java
 | `dir`            | 顯示目前資料夾內容         | 現在のフォルダ内のファイル一覧を表示 |
 | `pwd`            | 顯示目前所在位置          | 現在のディレクトリを表示       |
 
-🧠 學習要點總整理 / 学習要点総まとめ
+## 🧠 學習要點總整理 / 学習要点総まとめ
 
+<details>
+<summary>（點我展開 / クリックで展開）</summary>
 🔹 第7章：オブジェクト指向をはじめよう / 開始物件導向
 📘 中文說明：
 
@@ -553,7 +578,9 @@ Java API Docs を利用すれば、メソッド定義（例：openStream()）を
 実際のプロジェクトでは、I/O、HTTP、SQL、GUI、Spring Framework などと組み合わせて使用されます。
 ```
 
-📘 參考筆記 / Reference Notes
+</details>
+
+## 📘 參考筆記 / Reference Notes
 
 ```
 ．equals/hashCode 契約與 Objects 工具類（Objects.equals/Objects.hash）
@@ -565,7 +592,7 @@ Java API Docs を利用すれば、メソッド定義（例：openStream()）を
 ．try-with-resources 與 .close() 的關係與最佳實務
 ```
 
-💻 開發環境 / 開発環境
+## 💻 開發環境 / 開発環境
 
 | 項目                | 說明                 |
 | ----------------- | ------------------ |
@@ -576,7 +603,7 @@ Java API Docs を利用すれば、メソッド定義（例：openStream()）を
 | ⚙️ .gitattributes | 自動換行規則（LF 優先）      |
 | 🧱 .gitignore     | 排除 .class 等編譯產物    |
 
-🌱 未來規劃 / 今後の計画
+## 🌱 未來規劃 / 今後の計画
 
 | 中文                            | 日本語                            |
 | ----------------------------- | ------------------------------ |
@@ -585,11 +612,11 @@ Java API Docs を利用すれば、メソッド定義（例：openStream()）を
 | 整合小專案（RPG/成績管理/抓網頁）           | ミニプロジェクト統合（RPG・成績管理・Web取得）     |
 | 建立 GitHub 作品集／履歷連動            | GitHub ポートフォリオと履歴書連携           |
 
-✨ 作者 / Author
+## ✨ 作者 / Author
 
 | 項目           | 資料                   |
 | ------------ | -------------------- |
 | 👤 名稱 / 名前   | 陳永隆 (Yong-Long Chen) / チン・エイリュウ |
-| 📍 居住地 / 居住地 | 日本・岐阜県可児市            |
+| 📍 居住地 / 居住地 | 日本・東海地方（岐阜）            |
 | 🎯 目標 / 目標   | 2026年前轉職為 Java 開發工程師 / 2026年までにJava開発エンジニアへの転職を目指しています |
 | 💻 GitHub    | CHEN-YUNGLUNG / [Java-Practice](<https://github.com/CHEN-YUNGLUNG/Java-Practice>)        |
