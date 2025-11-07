@@ -1,4 +1,5 @@
 ☕ Java Practice Log / Java 練習記錄
+
 📘 Java学習者 / ITエンジニア転職準備中  
 💻 独学で『スッキリわかるJava入門 第4版』を完走した記録です。
 
